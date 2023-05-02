@@ -11,10 +11,9 @@ This code demonstrates how to control an RGB LED using three potentiometers. The
 | R1, R3, R2 | 3 | 1 kΩ Resistor |
 | D1 | 1 | RGB LED |
 
-### Circuit Diagram
+### Example
 
-![Example](example.gif)
-
+![Example](/example/example.gif)
 ### Code Explanation
 
 The three potentiometers are connected to analog input pins A0, A1, and A2. The values of these pins are read using the `analogRead()` function and then mapped to the corresponding RGB values(0-255) using the `map()` function.
