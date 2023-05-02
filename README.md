@@ -13,7 +13,7 @@ This code demonstrates how to control an RGB LED using three potentiometers. The
 
 ### Circuit Diagram
 
-![Example](example.png)
+![Example](example.gif)
 
 ### Code Explanation
 
